@@ -1,0 +1,18 @@
+
+
+
+main method is the starting point of the program, code which is written in main method only execute when we run the program.
+
+we can not define class as a private and protected, but we can declare inner class as a private or protected.
+
+there should be only one public class, which must contain main method.
+
+we cannot create function without class.
+
+constructor is the special function which is used to assign values and manage state, we don't need to call it, it runs when object created. compiler create constructor if user don't create.
+
+it is compulsury to initialize final variables at the time of declaration.
+
+we don't have constructor in interface.
+
+static members(methods) of inheritance will not be inherited.
